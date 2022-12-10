@@ -163,3 +163,5 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
+favicon_16 = "/img/favicon-16x16.png"
+favicon_32 = "/img/favicon-32x32.png"
