@@ -10,24 +10,22 @@ author = "Hugo Authors"
 
 Hi, I am Anoop Kurup.
 
-I live in Bangalore, India.
+As an expert in your field, you know you're great at what you do. But it can be challenging to effectively communicate your skills and experience to potential clients. That's where I come in as an authority builder. 
 
-## Authority Builder
-Authority building is a mix of positioning, service design, messaging, cold lead generation, and content marketing. 
+With a wealth of experience in multiple fields, I am uniquely qualified to help your business succeed. I have been a professional since 2005, starting my career at GE and then going on to found and run my own successful companies in the fields of Intellectual Property Rights and digital marketing. This background has given me a deep understanding of what it takes to create a winning marketing strategy and marketing campaigns for service and technology businesses. 
 
-## I work with
-I specialise in helping experts in Financial advisory, Intellectual property rights, Chartered accountants, corporate lawyers, and founders of technology companies. 
+My focus is to help experts like you position yourself as an authority in your field and get the visibility you deserve.
 
-## What I do for you
-Experts are great at what they do. 
+Positioning yourself as an authority can have a major impact on your business. It helps
+- establish credibility and trust with potential clients, making them more likely to choose you over competitors. 
+-  attract the attention of industry influencers and media outlets, leading to even more opportunities for growth and success. 
+ 
+As an authority builder, I can help you craft a messaging strategy that showcases your expertise and makes it clear why you are the go-to expert in your field.
 
-Not so good at telling the world what they do.
+In addition to positioning you as an authority, I can also assist with service design, cold lead generation, and content marketing. These strategies can further enhance your visibility and help you attract more clients. 
 
-Over the years I have discovered ways to position experts as an authority and get them the visibility they deserve. In turn it attracts the attention of potential clients. 
+My goal is to provide you with a comprehensive approach to marketing that leverages my expertise and helps you achieve your business goals. 
 
-Getting them more clients, faster.
+Whether you're a financial advisor, intellectual property expert, chartered accountant, corporate lawyer, or technology founder, I can help you attract the right clients for your business.
 
-## My journey so far
-I started my career in 2005 as a Plastics Research Engineer (chemical engineering) in GE. Then moved to GE Global Research to work on Advance Technology projects. In 2009, I started my first company offering IPR services to Indian Startups. After the company was acquired in 2015, I became a marketing consultant.
 
-Over the years I learnt various aspects of marketing strategy and digital marketing. These experiences led to creating a unique positioning as an Authority Builder.
