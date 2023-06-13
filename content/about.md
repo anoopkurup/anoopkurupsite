@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Anoop Kurup - Growth Accelerator for Service Businesses"
-date = "2023-06-14"
+date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
