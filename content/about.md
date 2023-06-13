@@ -1,9 +1,9 @@
 +++
 title = "About"
-description = "Anoop Kurup - Growth Accelerator"
+description = "Anoop Kurup - Growth Accelerator for Service Businesses"
 date = "2023-06-14"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Anoop Kurup"
+author = "Hugo Authors"
 +++
 
 ![Anoop Kurup photo](/img/anoop-sq.jpeg "Anoop")
