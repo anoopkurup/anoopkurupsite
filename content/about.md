@@ -2,7 +2,7 @@
 title = "About"
 description = "Anoop Kurup - Growth Accelerator for Service Businesses"
 date = "2023-06-14"
-aliases = ["about-us", "about-anoopkurup", "contact"]
+aliases = ["about-us", "about-hugo", "contact"]
 author = "Anoop Kurup"
 +++
 
